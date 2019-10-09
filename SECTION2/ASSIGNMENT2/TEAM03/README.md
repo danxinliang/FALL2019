@@ -9,7 +9,7 @@ Kevin Chen
 Xinyi Wang
 
 William Zhu
-
+Danxin Liang
 ## Comments
 Statistics may be dull, but it does have its Moments
 
